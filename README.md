@@ -1,4 +1,5 @@
 <h1>Portal Network API Documentation</h1>
+<a herf="https://www.portal.network/api/" target="_blank">https://www.portal.network/api/</a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lord/img/master/logo-slate.png" alt="Slate: API Documentation Generator" width="226">
